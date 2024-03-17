@@ -1,0 +1,48 @@
+body{
+    background-image: url(./bmi-and-weight-loss-banner-background-2GGJXN1.jpg);
+    background-size: cover;
+    
+}
+h1{
+  position: relative;
+  left: 670px;
+  
+    color: rgb(84, 222, 139);
+    font-size: 90px;
+}
+form{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    margin-left: 200px;
+    position: relative;
+    top: 2px;
+  
+    background-color: aquamarine;
+    
+}
+p{
+    font-size: 30px;
+    margin-left:55px ;
+}
+#height{
+    height: 30px;
+    width: 280px;
+    margin-left: 55px;
+}
+#weight{
+    height: 30px;
+    width: 280px;
+    margin-left: 55px;
+}
+#result{
+    height: 40px;
+    width:280px ;
+    margin-left: 55px;
+    margin-top: 25px;
+}
+.ans{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
